@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center"> Hello There 👋 </h1>
 
-<!--
-**umangagarwal11/umangagarwal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* I am [Umang Agarwal](https://umangagarwal.tech/) :blush: . Currently I am a third year student from VIT Vellore in Computer Science Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I have completed multiple Internships(4) in the field of Web Development and I am the Thechnical Head at ISTE-VIT :sparkles:.
+
+* I have done multiple projects in the field of Web Development using various tech stacks :file_cabinet: .
+
+* I am currently brushing up my skills and plan to learn React.js and want to explore the field of Machine Learning.
+
+* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
+
+* Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/umang-agarwal-5b227617b/) :sparkler:
+
+
+ 
+![Umang Agarwal's Github Stats](https://github-readme-stats.vercel.app/api?username=umangagarwal11&show_icons=true_color=fff&icon_color=2cbe4e&text_color=262626&bg_color=fff)
+
+
+## My Activities :mailbox_with_mail:
+
+| BLOGS :open_book: 
+| :--- 
+| [Rope Data Structure](https://medium.com/underrated-data-structures-and-algorithms/rope-data-structure-e623d7862137)
+| [Trie Data Structure](https://medium.com/underrated-data-structures-and-algorithms/trie-data-structure-fd9a2aa6fcb8) 
+
+If you like the Repository give it a :star: and also follow me on Github :grinning:
