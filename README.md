@@ -9,7 +9,7 @@
 
 * I am currently brushing up my skills and plan to learn React.js and explore the field of Machine Learning.
 
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
+* I am willing to work on free-lance projects. :bulb:
 
 * Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/umang-agarwal-5b227617b/) :sparkler:
 
