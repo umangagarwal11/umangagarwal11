@@ -3,7 +3,7 @@
 
 * I am [Umang Agarwal](https://umangagarwal.tech/) :blush: . Currently I am a third year student from VIT Vellore in Computer Science Engineering.
 
-* I have completed multiple Internships(4) in the field of Web Development and I am the Thechnical Head at ISTE-VIT :sparkles:.
+* I have completed multiple Internships(4) in the field of Web Development and I am the Technical Head at ISTE-VIT :sparkles:.
 
 * I have done multiple projects in the field of Web Development using various tech stacks :computer: .
 
