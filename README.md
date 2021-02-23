@@ -15,7 +15,7 @@
 
 
  
-![Umang Agarwal's Github Stats](https://github-readme-stats.vercel.app/api?username=umangagarwal11&show_icons=true_color=fff&icon_color=2cbe4e&text_color=262626&bg_color=fff)
+![Umang Agarwal's Github Stats](https://github-readme-stats.vercel.app/api?username=umangagarwal11&show_icons=true_color=fff&icon_color=2cbe4e&text_color=262626)
 
 
 ## My Activities :mailbox_with_mail:
