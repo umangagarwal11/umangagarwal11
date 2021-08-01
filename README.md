@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Umang Agarwal](https://umangagarwal.tech/) :blush: . Currently I am a third year student from VIT Vellore in Computer Science Engineering.
+* I am [Umang Agarwal](https://umangagarwal.tech/) :blush: . Currently I am a final year student from VIT Vellore in Computer Science Engineering.
 
 * I have completed multiple Internships(6) in the field of Full Stack Development and I was the Technical Head at ISTE-VIT :sparkles:.
 
