@@ -1,9 +1,11 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Umang Agarwal](https://umangagarwal.tech/) :blush: . Currently I am a final year student from VIT Vellore in Computer Science Engineering.
+* I am [Umang Agarwal](https://umangagarwal.tech/) :blush: . Currently I am a Software Engineer at Societe Generale.
 
-* I have completed multiple Internships(6) in the field of Full Stack Development and I was the Technical Head at ISTE-VIT :sparkles:.
+* I have completed my graduation from VIT Vellore in Computer Science Engineering.
+
+* I am a Full Stack Developer and I was the Technical Head at ISTE-VIT :sparkles:.
 
 * I have done multiple projects in the field of Web and App Development using various tech stacks :computer: .
 
