@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Umang Agarwal](https://umangagarwal.tech/) :blush: . Currently I am a Software Engineer at Societe Generale.
+* I am [Umang Agarwal](#) :blush: . Currently, I am a Software Engineer at Societe Generale.
 
 * I have completed my graduation from VIT Vellore in Computer Science Engineering.
 
